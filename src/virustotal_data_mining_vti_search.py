@@ -11,7 +11,7 @@ analyzer = import_from("virustotal_data_mining_analyzer")
 
 
 next_page = None
-#search_lst = [{"type": "executable", "positives": "7"+"+", "size":"90kb+"}, {"type": "document", "positives": "7"+"+","size":"90kb+"}]
+
 
 for search_tbl in search_lst:
       count = 0
